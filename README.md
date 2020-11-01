@@ -10,12 +10,12 @@ For the back-end I use nodeJS.
 - Embedded software engineer. Cojali systems, S.L.
 - Practices as software engineer. Airbus Helicopters, Inc.
 
-### Education
+### Education :book:
 - Master degree in embedded computer systems. Castilla - La Mancha University.
 - Bachelor's degree in industrial electronics and automatics. Castilla - La Mancha University.
 - Sciences and technology High School. Cristobal Lozano.
 
-### Languages
+### Languages 
 - English. First Certificate in English (B2).
 - Spanish. Native.
 
