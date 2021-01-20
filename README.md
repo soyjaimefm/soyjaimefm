@@ -24,6 +24,8 @@ For the back-end I use nodeJS.
 
 <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjaimef14m">
 
+![Twitter URL](https://img.shields.io/twitter/url?label=%40jaimef14m&style=social&url=https%3A%2F%2Ftwitter.com%2Fjaimef14m)
+
 - [LinkedIn](https://www.linkedin.com/in/jaime-fernandez-moreno/)
 
 
