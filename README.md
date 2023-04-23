@@ -1,10 +1,11 @@
 # My name is Jaime :computer:
 
-My name is Jaime Fernández Moreno, I live in Albacete, a small city in southest of Spain.
+My name is Jaime Fernández Moreno, I live in Madrid (Spain).
 I work as a web developer. I use html5, vanilla Javascript and CSS3 in the front-end.
 For the back-end I use nodeJS.
 
 ## Work experience
+- Frontend developer. Paradigma Digital.
 - Software engineer. Alten spain.
 - Software engineer. Ficosa.
 - Embedded software engineer. Cojali systems, S.L.
@@ -21,7 +22,7 @@ For the back-end I use nodeJS.
 
 ## Social networks
 [![LinkedIn badge](https://img.shields.io/badge/-Jaime_Fern%C3%A1ndez_Moreno-blue?logo=LinkedIn&style=flat)](https://www.linkedin.com/in/jaime-fernandez-moreno/)
-[![Twitter badge](https://img.shields.io/twitter/url?label=%40jaimef14m&style=social&url=https%3A%2F%2Ftwitter.com%2Fjaimef14m)](https://twitter.com/jaimef14m)
+[![Twitter badge](https://img.shields.io/twitter/url?label=%40jaimef14m&style=social&url=https%3A%2F%2Ftwitter.com%2Fjaimef14m)](https://twitter.com/soyjaimefm)
 
 
 <!--
