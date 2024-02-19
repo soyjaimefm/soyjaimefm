@@ -1,12 +1,14 @@
 # My name is Jaime :computer:
 
 My name is Jaime Fernández Moreno, I live in Madrid (Spain).
-I work as a web developer. I use html5, vanilla Javascript and CSS3 in the front-end.
+I work as a web developer for more than 5 years. I use html5, vanilla Javascript and CSS3 in the front-end.
 For the back-end I use nodeJS.
+I also work with libraries and frameworks like React and Next.js
+📫 jaimefrm93@gmail.com
 
 ## Work experience
 - Frontend developer. Paradigma Digital.
-- Software engineer. Alten spain.
+- Software engineer. Airbus Helicopters, Inc.
 - Software engineer. Ficosa.
 - Embedded software engineer. Cojali systems, S.L.
 - Practices as software engineer. Airbus Helicopters, Inc.
@@ -16,26 +18,13 @@ For the back-end I use nodeJS.
 - Bachelor's degree in industrial electronics and automatics. Castilla - La Mancha University.
 - Sciences and technology High School. Cristobal Lozano.
 
-## Languages 
+## Languages
 - English. First Certificate in English (B2).
 - Spanish. Native.
 
 ## Social networks
 [![LinkedIn badge](https://img.shields.io/badge/-Jaime_Fern%C3%A1ndez_Moreno-blue?logo=LinkedIn&style=flat)](https://www.linkedin.com/in/jaime-fernandez-moreno/)
-[![Twitter badge](https://img.shields.io/twitter/url?label=%40jaimef14m&style=social&url=https%3A%2F%2Ftwitter.com%2Fjaimef14m)](https://twitter.com/soyjaimefm)
-
-
-<!--
-**jaimefm14/jaimefm14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter badge](https://img.shields.io/badge/-@soyjaimefm-black?logo=X&style=flat)](https://twitter.com/soyjaimefm)
+[![Instagram badge](https://img.shields.io/badge/-@soyjaimefm-white?logo=Instagram&style=flat)](https://www.instagram.com/soyjaimefm/?hl=es)
+[![Tiktok badge](https://img.shields.io/badge/-@soyjaimefm-black?logo=tiktok&style=flat)](https://www.tiktok.com/@soyjaimefm)
+[![Youtube badge](https://img.shields.io/badge/-@soyjaimefm-red?logo=Youtube&style=flat&color=FF0004)](https://www.youtube.com/@soyjaimefm)
