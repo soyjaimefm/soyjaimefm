@@ -7,17 +7,22 @@ I also work with libraries and frameworks like React and Next.js
 
 📫 jaimefrm93@gmail.com
 
+## Latest videos
+<a href='https://youtu.be/QOsz1w3M9ek?si=YvKZYjDZ6_ICZtHB' target='_blank'>
+  <img width='30%' src='https://i.ytimg.com/vi/QOsz1w3M9ek/hqdefault.jpg' alt='Cómo conseguir trabajo como PROGRAMADOR JUNIOR' />
+</a>
+
+
 ## Work experience
 - Frontend developer. Paradigma Digital.
 - Software engineer. Airbus Helicopters, Inc.
-- Software engineer. Ficosa.
 - Embedded software engineer. Cojali systems, S.L.
-- Practices as software engineer. Airbus Helicopters, Inc.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyjaimefm&theme=radical&layout=compact)
 
 ## Education :book:
 - Master degree in embedded computer systems. Castilla - La Mancha University.
 - Bachelor's degree in industrial electronics and automatics. Castilla - La Mancha University.
-- Sciences and technology High School. Cristobal Lozano.
 
 ## Languages
 - English. First Certificate in English (B2).
